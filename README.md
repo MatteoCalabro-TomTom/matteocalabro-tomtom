@@ -1,3 +1,3 @@
-# Mastodon Verification
+# Who's Matteo (aka matticala)
 
-<a rel="me" href="https://hachyderm.io/@matticala">@matticala@hachyderm.io</a>
+Social profile: <a rel="me" href="https://hachyderm.io/@matticala">@matticala@hachyderm.io</a>
