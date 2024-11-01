@@ -1,5 +1,5 @@
 # Who's Matteo (aka matticala)
 
-Staff Software Engineer @TomTom. Platform Products,Customer Engagement Technology.
+Staff Software Engineer @TomTom-international, Customer Enablement Technologies.
 
-Follow me on [~Twitter~BlueSky](https://bsky.app/profile/matticala.me)
+Follow me on [BlueSky](https://bsky.app/profile/matticala.me)
